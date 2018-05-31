@@ -1,1 +1,2 @@
-# asp2project
+# asp2upr
+Упражнения по ASP 2ра част
